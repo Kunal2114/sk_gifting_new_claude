@@ -6,9 +6,9 @@ export const site = {
   description:
     'Custom-branded corporate gifts in bulk: laptop backpacks, trolley bags, polo T-shirts, flasks and coffee mugs, with your logo. Based in Bengaluru.',
   email: 'info@skgiftsco.in',
-  phoneDisplay: '+91 85838 03203',
-  phoneTel: '+918583803203',
-  whatsapp: '918583803203', // country code + number, no "+"
+  phoneDisplay: '+91 91087 79993',
+  phoneTel: '+919108779993',
+  whatsapp: '919108779993', // country code + number, no "+"
   address: ['Om Chambers, 648/A, 4th Floor', 'Binnamangala 1st Stage, Indiranagar', 'Bengaluru, Karnataka 560038'],
   gstin: '29AEOPK3990D1Z4',
   hours: 'Mon–Sat, 10:00 am – 6:30 pm',
